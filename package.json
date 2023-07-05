@@ -1,0 +1,15 @@
+{
+  "name": "test-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "merge-release": "bash scripts/release/create-branch.sh"
+  },
+  "author": "",
+  "license": "ISC"
+}
