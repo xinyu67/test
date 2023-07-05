@@ -2,7 +2,7 @@
 BASE_VERSION="v0.1.0"
 TYPE="release"
 BRANCHES=(
-    'add-cat'
-    'add-dog'
+    'feat/add-cat'
+    'feat/add-dog'
     
 )
