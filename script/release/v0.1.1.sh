@@ -4,4 +4,5 @@ TYPE="release"
 BRANCHES=(
     'feature/cat-meow'
     'feature/dog-bow-bow'
+    
 )
